@@ -1,7 +1,6 @@
 {
   "name": "18x",
   "description": "Util js for build web site",
-  "filename": "sanitize.min.css",
   "repository": {
     "type": "git",
     "url": "https://atomgit.com/i18n/x.git"
