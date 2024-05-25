@@ -1,0 +1,32 @@
+{
+  "name": "18x",
+  "description": "Util js for build web site",
+  "filename": "sanitize.min.css",
+  "repository": {
+    "type": "git",
+    "url": "https://atomgit.com/i18n/x.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://atomgit.com/i18n/x",
+  "autoupdate": {
+    "source": "npm",
+    "target": "18x",
+    "fileMap": [
+      {
+        "basePath": "",
+        "files": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "i18n.site",
+      "email": "i18n.site@gmail.com"
+    }
+  ]
+}
