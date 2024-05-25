@@ -6,7 +6,9 @@
     "url": "https://atomgit.com/i18n/x.git"
   },
   "keywords": [
-    "util"
+    "lightbox",
+    "popup",
+    "dialog"
   ],
   "license": "Apache-2.0",
   "homepage": "https://atomgit.com/i18n/x",
