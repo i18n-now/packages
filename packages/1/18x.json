@@ -20,7 +20,10 @@
       {
         "basePath": "",
         "files": [
-          "*"
+          "*.woff2",
+          "*.css",
+          "*.svg",
+          "*.js?(.map)"
         ]
       }
     ]
