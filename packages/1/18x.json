@@ -8,7 +8,8 @@
   "keywords": [
     "lightbox",
     "popup",
-    "dialog"
+    "dialog",
+    "misc"
   ],
   "license": "Apache-2.0",
   "homepage": "https://atomgit.com/i18n/x",
@@ -29,5 +30,8 @@
       "name": "i18n.site",
       "email": "i18n.site@gmail.com"
     }
-  ]
+  ],
+  "optimization": {
+    "js": false
+  }
 }
